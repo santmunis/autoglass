@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "tvj2KxenvkdTo7e0mle08wrtAgBKux0qitR6QaIpoaju2Z6OzV+xYPDIorB7y9IonGW+0Pul/6pgzsWcmczdmg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\santi\\Documents\\Projetos\\Autoglass1\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\santi\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\santi\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\santi\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\santi\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "5nvUR/2Z9nwEzWFNbb1tAWf2KJB23wC8beN4jZKKU7pGspWDHEPl4X4Y4kcFX7hP4z0UI3LtTqQF1+5kJnaA9g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\santi\\Documents\\Projetos\\Autoglass1\\Services\\Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\santi\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\santi\\.nuget\\packages\\fluentvalidation\\11.1.0\\fluentvalidation.11.1.0.nupkg.sha512",
+    "C:\\Users\\santi\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\santi\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\santi\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
